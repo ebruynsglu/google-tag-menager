@@ -7,3 +7,9 @@ const tagManagerArgs = {
 TagManager.initialize(tagManagerArgs)
 
 {/* component olarak oluştur */}
+
+
+
+
+{/* şu paketi yükle;
+npm i react-gtm-module */}
