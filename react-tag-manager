@@ -1,0 +1,9 @@
+import TagManager from 'react-gtm-module'
+ 
+const tagManagerArgs = {
+    gtmId: 'GTM-000000'
+}
+ 
+TagManager.initialize(tagManagerArgs)
+
+{/* component olarak oluştur */}
